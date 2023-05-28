@@ -45,8 +45,9 @@ main{
     color: hsl(220, 15%, 55%);
 }
 
-.text>h2{
+.text > .title{
     color: hsl(218, 44%, 22%);
     font-weight: 700;
     margin-top: 8px;
+    font-size: 26px;
 }
