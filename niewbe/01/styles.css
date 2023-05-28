@@ -37,9 +37,9 @@ main{
     border-radius: 12px;
 }
 
-.text{
-    padding-left: 10px;
-    padding-right: 10px;
+.text {
+    padding-left: 15px;
+    padding-right: 15px;
     padding-bottom: 10px;
     background-color: white;
     color: hsl(220, 15%, 55%);
