@@ -221,7 +221,7 @@ section .purple-box .customer .customer-info {
 section .purple-box .customer .customer-info h3 {
     color: var(--neutral-light-grayish-magenta);
     font-size: 0.8rem;
-    font-weight: 700;
+    font-weight: 800;
     padding: 0.3rem 0;
 }
 
@@ -246,7 +246,7 @@ section .purple-box > p {
 
 @media (max-width: 66em) {
     section:last-of-type {
-        margin: 1.5rem 0 0;
+        margin: 0rem 0 0;
     }
 }
 
