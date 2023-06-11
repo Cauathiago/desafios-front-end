@@ -5,9 +5,9 @@ Neste repositório você encontrará desafios do Frontend [Mentor](https://www.f
 
 ## Niewbe
 - [QR Code Component](/niewbe/01)
-- [Results summary component](/niewbe/02)
+- [Results Summary Component](/niewbe/02)
 - [Social proof section](/niewbe/03)
 
 ## Junior
 
-- [Age calculator app](/junior/01)
+- [Age Calculator App](/junior/01)
