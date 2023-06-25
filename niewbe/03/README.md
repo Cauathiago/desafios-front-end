@@ -2,6 +2,11 @@
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
+
+## Demo
+[Live preview](https://cauathiago.github.io/desafios-front-end/niewbe/03/index.html)
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.

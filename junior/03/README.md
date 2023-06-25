@@ -2,6 +2,9 @@
 
 ![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
 
+## Demo
+[Live preview](https://cauathiago.github.io/desafios-front-end/junior/03/index.html)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.

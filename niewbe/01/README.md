@@ -3,7 +3,7 @@
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Demo
-[See demo](https://cauathiago.github.io/desafios-front-end/niewbe/01/index.html)
+[Live preview](https://cauathiago.github.io/desafios-front-end/niewbe/01/index.html)
 
 ## Welcome! 👋
 

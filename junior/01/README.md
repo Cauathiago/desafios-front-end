@@ -2,6 +2,9 @@
 
 ![Design preview for the Age calculator app coding challenge](./design/desktop-preview.jpg)
 
+## Demo
+[Live preview](https://cauathiago.github.io/desafios-front-end/junior/01/index.html)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.

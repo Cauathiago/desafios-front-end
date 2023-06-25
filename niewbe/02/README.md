@@ -2,6 +2,10 @@
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
+## Demo
+[Live preview](https://cauathiago.github.io/desafios-front-end/niewbe/02/index.html)
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
