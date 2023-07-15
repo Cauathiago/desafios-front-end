@@ -12,3 +12,10 @@ Neste repositório você encontrará desafios do Frontend [Mentor](https://www.f
 - [Age Calculator App](/junior/01)
 - [Clipboard Landing Page](/junior/02)
 - [Huddle landing page with curved sections](/junior/03)
+- [Interactive card details form](/junior/04)
+
+## Pleno
+
+- [Chat app CSS illustration](/pleno/01)
+
+

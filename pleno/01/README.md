@@ -2,6 +2,10 @@
 
 ![Design preview for the Chat app CSS illustration coding challenge](./design/desktop-preview.jpg)
 
+## Demo
+[Live preview](https://cauathiago.github.io/desafios-front-end/pleno/01/index.html)
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
