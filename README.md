@@ -13,6 +13,8 @@ Neste repositório você encontrará desafios do Frontend [Mentor](https://www.f
 - [Clipboard Landing Page](/junior/02)
 - [Huddle landing page with curved sections](/junior/03)
 - [Interactive card details form](/junior/04)
+- [Testimonials grid section](/junior/05)
+
 
 ## Pleno
 
