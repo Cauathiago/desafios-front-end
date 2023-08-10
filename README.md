@@ -15,6 +15,7 @@ Neste repositório você encontrará desafios do Frontend [Mentor](https://www.f
 - [Interactive card details form](/junior/04)
 - [Testimonials grid section](/junior/05)
 - [Pricing Component With Toggle](/junior/06)
+- [Loopstudios landing page](/junior/07)
 
 
 

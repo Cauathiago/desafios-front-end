@@ -2,6 +2,9 @@
 
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
+## Demo
+[Live preview](https://cauathiago.github.io/desafios-front-end/junior/07/index.html)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
