@@ -17,10 +17,10 @@ Neste repositório você encontrará desafios do Frontend [Mentor](https://www.f
 - [Pricing Component With Toggle](/junior/06)
 - [Loopstudios landing page](/junior/07)
 
-
-
 ## Pleno
 
 - [Chat app CSS illustration](/pleno/01)
+- [URL shortening API landing page](/pleno/02)
+
 
 
