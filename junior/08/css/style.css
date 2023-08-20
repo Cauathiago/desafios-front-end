@@ -169,7 +169,7 @@ button.active{
     gap: 1.5rem;
 }
 main .card{
-    background: url(./images/icon-work.svg) no-repeat var(--work-bg);
+    background: url(../images/icon-work.svg) no-repeat var(--work-bg);
     background-position: top -.5rem right 1rem;
     display: flex;
     align-items: flex-end;
@@ -196,23 +196,23 @@ main .card{
     }
 }
 .card:nth-child(2){
-    background: url(./images/icon-play.svg) no-repeat var(--play-bg);
+    background: url(../images/icon-play.svg) no-repeat var(--play-bg);
     background-position: top -.5rem right 1rem;
 }
 .card:nth-child(3){
-    background: url(./images/icon-study.svg) no-repeat var(--study-bg);
+    background: url(../images/icon-study.svg) no-repeat var(--study-bg);
     background-position: top -.5rem right 1rem;
 }
 .card:nth-child(4){
-    background: url(./images/icon-exercise.svg) no-repeat var(--exercise-bg);
+    background: url(../images/icon-exercise.svg) no-repeat var(--exercise-bg);
     background-position: top -.5rem right 1rem;
 }
 .card:nth-child(5){
-    background: url(./images/icon-social.svg) no-repeat var(--social-bg);
+    background: url(../images/icon-social.svg) no-repeat var(--social-bg);
     background-position: top -.5rem right 1rem;
 }
 .card:nth-child(6){
-    background: url(./images/icon-self-care.svg) no-repeat var(--self-care-bg);
+    background: url(../images/icon-self-care.svg) no-repeat var(--self-care-bg);
     background-position: top -.5rem right 1rem;
 }
 .card .details{
