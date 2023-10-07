@@ -22,7 +22,5 @@ Neste repositório você encontrará desafios do Frontend [Mentor](https://www.f
 
 - [Chat app CSS illustration](/pleno/01)
 - [URL shortening API landing page](/pleno/02)
-- [job listings with filtering](/pleno/03/job-listings-with-filtering/)
-
 
 
